@@ -1,4 +1,4 @@
-var Regex_Pattern = /__________/; //Do not delete '/'. Replace __________ with your regex.
+var Regex_Pattern = /^\d\w\w\w\w\.$/; //Do not delete '/'. Replace __________ with your regex.
 
 function processData(Test_String) {
     //Enter your code here
